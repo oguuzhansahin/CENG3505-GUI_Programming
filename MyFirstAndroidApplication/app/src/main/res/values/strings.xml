@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="myfirst">My First Android</string>
+    <string name="application">Application</string>
+    <string name="username">Username</string>
+    <string name="passw">Password</string>
+    <string name="login_button">Login</string>
+</resources>
